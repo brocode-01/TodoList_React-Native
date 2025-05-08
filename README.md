@@ -1,12 +1,20 @@
 <h1>To-Do List Using React Native</h1>  <br>
 
-<img width ="100" alt="Phone_view" src="(https://github.com/user-attachments/assets/cb7fd453-4a3b-4f28-84b1-44040a05fd1e)
-" />
+🚀 Features
+📋 Add new tasks
 
+✅ Mark tasks as completed
 
-<img width ="100" alt="Phone_view" src="![WhatsApp Image 2025-04-30 at 10 29 10 AM](https://github.com/user-attachments/assets/0d64756c-0746-4f63-9a36-3498430c819d)
+🗑️ Delete tasks
 
-" />
+🌙 Clean and responsive UI <br>
+
+🛠️ Tech Stack
+React Native
+
+Expo (for easy development and testing)
+
+React Hooks for state management
 
 
 
