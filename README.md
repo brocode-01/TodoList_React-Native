@@ -24,7 +24,7 @@ React Hooks for state management
 yarn install
 ```
 
-- Start the app
+- yarn start
 
 ```bash
 npx expo start
