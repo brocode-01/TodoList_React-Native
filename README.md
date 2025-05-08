@@ -1,25 +1,13 @@
-# Exlogrn 🚀
+<h1>To-Do List Using React Native</h1>  <br>
 
-A starter app template for React Native & Expo, featuring a ready-to-use auth screens.
+<img  alt="Phone_view" src="![WhatsApp Image 2025-04-30 at 10 29 09 AM](https://github.com/user-attachments/assets/cb7fd453-4a3b-4f28-84b1-44040a05fd1e)
+" />
 
-![AllScreens](assets/screenshot/snap.png)
 
-## About ✔️
+<img  alt="Phone_view" src="![WhatsApp Image 2025-04-30 at 10 29 10 AM](https://github.com/user-attachments/assets/0618e8dd-0d14-497c-ad83-d04b9f6b069b)
+" />
 
-What can you do with this template 🤔
 
-- Log in with an email address and password.
-- Create an account with a name, email address and password.
-- Sign out.
-
-This template is a good way to start an application with a system of connection, disconnection, and creation of an account.  
-You will just need to adapt it according to your needs.
-
-![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)
-
-## Usage ℹ️
-
-Click on the **[Use this template](https://github.com/daoodaba975/exlogrn/generate)** button on this page to clone this respository to your GitHub account or you can clone this respository.
 
 - Install dependencies
 
@@ -34,11 +22,3 @@ npx expo start
 ```
 
 You can take a look on Expo's [docs](https://docs.expo.dev).
-
-### Licence 🚨
-
-This template is released under the **[MIT License](LICENSE.md)**.
-
-Enjoy ✌🏽
-# Todolist
-# Todolist
