@@ -4,7 +4,7 @@
 " />
 
 
-<img width ="311" alt="Phone_view" src="![WhatsApp Image 2025-04-30 at 10 29 10 AM](https://github.com/user-attachments/assets/0d64756c-0746-4f63-9a36-3498430c819d)
+<img width ="100" alt="Phone_view" src="![WhatsApp Image 2025-04-30 at 10 29 10 AM](https://github.com/user-attachments/assets/0d64756c-0746-4f63-9a36-3498430c819d)
 
 " />
 
